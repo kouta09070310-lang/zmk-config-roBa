@@ -18,6 +18,4 @@
 | 矢印レイヤー | 右手側は未割り当て | 右手側にテンキー（0〜9・Tab・Backspace）を配置 | `config/roBa.keymap` |
 | 記号レイヤー | 空きキー | `?` を割り当て | `config/roBa.keymap` |
 
-> 下のキーマップ画像は元の設定のものです。
-
 <img src="keymap-drawer/roBa.svg" >

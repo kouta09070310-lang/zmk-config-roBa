@@ -38,9 +38,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: '&to_layer_0 INT_HENKAN', h: '6'}
+  - {t: '&to_layer_0 INT_MUHENKAN', h: '6'}
   - {t: SPACE, h: NUM}
-  - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
+  - {t: '&to_layer_0 INT_HENKAN', h: ARROW}
   - BACKSPACE
   - {t: ENTER, h: FUNCTION}
   - DEL
@@ -117,7 +117,7 @@ layers:
   - KP 3
   - .
   - '='
-  - {t: ▽, type: trans}
+  - '?'
   - '['
   - ']'
   - '{'
@@ -138,9 +138,9 @@ layers:
   - UP ARROW
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
@@ -150,9 +150,9 @@ layers:
   - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '4'
+  - '5'
+  - '6'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT SHIFT
@@ -160,11 +160,11 @@ layers:
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
+  - '0'
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -173,8 +173,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BACKSPACE
+  - '0'
   - {t: ▽, type: trans}
   MOUSE:
   - {t: ▽, type: trans}
